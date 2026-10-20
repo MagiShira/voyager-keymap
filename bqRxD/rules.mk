@@ -8,3 +8,5 @@ COMBO_ENABLE = yes
 PRECISION_TRACKPAD_ENABLE = yes
 PRECISION_TRACKPAD_DRIVER = navigator_trackpad
 POINTING_DEVICE_DRIVER = custom
+
+SRC += custom.c
